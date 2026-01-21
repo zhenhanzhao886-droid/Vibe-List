@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of MindAnchor AI",
+  "description": "A minimalist, dark-themed productivity app for capturing thoughts, managing daily focus, and generating AI insights from voice transcripts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
